@@ -1,4 +1,5 @@
 #!/bin/bash
-0 string SCHOOL School data !:mime School
-$ file --mime-type -m school.mgc
-file -m schoo.mgc * School data
+cp /bin/ls
+ls -la
+file --mime-type -m school.mgc * school.mgc: application/octet-stream ls: application/octet-stream
+lfile -m school.mgc * school.mgc: data ls: data
