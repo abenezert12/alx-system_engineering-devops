@@ -1,5 +1,2 @@
-#!/bin/bash
-cp /bin/ls
-ls -la
-file --mime-type -m school.mgc * school.mgc: application/octet-stream ls: application/octet-stream
-lfile -m school.mgc * school.mgc: data ls: data
+0 string SCHOOL School data
+!:mime School
