@@ -1,3 +1,5 @@
 #!/bin/bash
 ls -la
 file --mime-type -m school.mgc * school.mgc: application/octet-stream
+file --mime-type -m school.mgc 
+file --mime-type -m school.mgc 
