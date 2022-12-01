@@ -1,4 +1,2 @@
 #!/bin/bash
-chmod -R ugo+x .
-chgrp school hello
-chmod -R ugo+x .
+chmo -R ugo+x .
