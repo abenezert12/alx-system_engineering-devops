@@ -1,2 +1,3 @@
 #!/bin/bash
 chown --from:betty hello
+chown --from:dfbetty hello
