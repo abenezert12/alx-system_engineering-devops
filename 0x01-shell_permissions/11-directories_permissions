@@ -1,2 +1,2 @@
 #!/bin/bash
-chmo -R u+x .
+chmod -R u+x .
