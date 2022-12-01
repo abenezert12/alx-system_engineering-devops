@@ -1,3 +1,2 @@
 #!/bin/bash
-chmo -R +x .
-chgrp school hello
+chmo -R +X .
