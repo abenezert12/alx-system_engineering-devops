@@ -1,2 +1,2 @@
 #!/bin/bash
-git commit -m "101-gifs"
+ho $(cut -c 1 | tr -d "\n")
