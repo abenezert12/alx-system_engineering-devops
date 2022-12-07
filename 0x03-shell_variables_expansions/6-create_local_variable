@@ -1,2 +1,2 @@
 #!/bin/bash
-BETTY=School
+export BEST="School"
