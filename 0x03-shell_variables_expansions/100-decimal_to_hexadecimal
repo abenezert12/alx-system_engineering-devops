@@ -1,2 +1,2 @@
 #!/bin/bash
-printf %xn $DECIMAL
+echo {a..o}{a..o} | tr'''\n' | grep -v oo
