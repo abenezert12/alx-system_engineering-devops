@@ -1,18 +1,22 @@
 #!/usr/bin/env bash
-# A script that loops through 1 to 10 using while
+# The script loops from 1 to 10 end;
+# display bad luck for the 4th loop
+# display good luck for the 8th loop
+# display Best School for the other
 
-i=1
+iterator=1
 
-while [ $i -le 10 ]
+while (( iterator <= 10 ))
 do
-    if [ $i -eq 4 ]
+    if [ "$iterator" -eq "4" ]
     then
         echo "bad luck"
-    elif [ $i -eq 8 ]
+    elif [ "$iterator" -eq "8" ]
     then
         echo "good luck"
     else
         echo "Best School"
     fi
-    ((i++))
+
+    iterator=$(( iterator + 1 ))
 done
