@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script shows the PID of all the bash processes
+# ps -C bash | tail -n +2 | cut -d " " -f2,8
+pgrep -l bash
