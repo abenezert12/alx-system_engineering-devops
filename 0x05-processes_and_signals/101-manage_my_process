@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # This script manages 'manage_my_process'
 
-PIDFILE=/var/run/my_process.pid
+#!/usr/bin/env bash
+# Manages 'manage_my_process'
 
 if [ $# -gt 0 ]
 then
