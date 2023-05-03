@@ -3,5 +3,4 @@
 
 # puts ARGV[0].scan(/hb?tn/).join
 # OR
-
-puts ARGV[0].scan(/^hb?tn/).joini
+puts ARGV[0].scan(/^hb?tn/).join
