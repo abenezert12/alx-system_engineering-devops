@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# This script shows listening sockets and name of the program to which each socket belongs
+
+# netstat --listening --program
+# OR
+# netstat -lp
+# OR
+netstat -ltup
