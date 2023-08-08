@@ -1,4 +1,6 @@
-ing reddit's API
+#!/usr/bin/python3
+"""
+Using reddit's API
 """
 import requests
 after = None

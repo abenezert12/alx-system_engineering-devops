@@ -1,4 +1,5 @@
-t api"""
+#!/usr/bin/python3
+""" raddit api"""
 
 import json
 import requests
